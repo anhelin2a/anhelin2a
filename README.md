@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Anhelina Mendohralo, a computer science student.  
+I am engaged in database projects and focused on refining my skills.  
+Additionally, I am interested in exploring artificial intelligence, particularly machine learning, to develop innovative solutions.
+
+--------
+Technologies I frequently work with:    
+- MSSQL
+- Python (especially for machine learning, including PyTorch, YOLO, and OpenCV)
+- C
+- Linux
 <!--
 **anhelin2a/anhelin2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
